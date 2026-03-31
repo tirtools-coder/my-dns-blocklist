@@ -1,1 +1,39 @@
+# WHS.NET Custom Blocklist
+# Source: Top 50 Blocked Analysis
+# Last Update: 2026-03-31
 
+svr.d.carystudio.com
+googleads.g.doubleclick.net
+app-measurement.com
+asia-comonrt-stsdk.vivoglobal.com
+ire-dsu.shalltry.com
+api.ad.intl.xiaomi.com
+firebaselogging.googleapis.com
+mdp-appconf-sg.heytapdl.com
+sdkconfig.ad.intl.xiaomi.com
+api16-access-wf-my.pangle.io
+firebase-settings.crashlytics.com
+adx-id.ads.heytapmobile.com
+stg-data-id.ads.heytapmobile.com
+cl-data-id.ads.heytapmobile.com
+asia-comort-stsdk.vivoglobal.com
+beacons.gcp.gvt2.com
+api16-access-ttp.tiktokpangle.us
+ms.applovin.com
+mediation-sg2-log.pangle.io
+firebaselogging-pa.googleapis.com
+logs.ads.vungle.com
+www.perfect-privacy.com
+vulcan5.branch.io
+passwordsgenerator.net
+perfect-privacy.com
+r-id.ls.glanceapis.com
+api16-dual-event-sg2.pangle.io
+oslab.shalltry.com
+rt.applovin.com
+www.googletagmanager.com
+tracking.intl.miui.com
+osupdate2020.shalltry.com
+adx.ads.vungle.com
+ire-dsc.shalltry.com
+d.applovin.com
